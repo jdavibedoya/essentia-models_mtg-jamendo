@@ -2,4 +2,4 @@
 
 The main goal of this project is to compare the performance of some deep learning models that run on a large dataset of audio. The models are a subset of the TensorFlow classifiers available in [Essentia](https://essentia.upf.edu/), and the dataset is a chunk of the [MTG-Jamendo dataset](https://github.com/MTG/mtg-jamendo-dataset).
 
-![image](http://drive.google.com/uc?export=view&id=1ubA_baSFW437GEM0Crw6S5mzr1RjDsyx)
+<img src="./weighted f1-scores.png">
